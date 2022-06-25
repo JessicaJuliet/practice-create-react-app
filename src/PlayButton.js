@@ -1,5 +1,4 @@
 // Resource: https://heroicons.com/
-
 function PlayButton(props) {
     return (
         <button {...props}>
